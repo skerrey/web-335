@@ -1,0 +1,32 @@
+
+{
+    "firstname": "James",
+    "lastname": "Bond",
+    "roles": [
+        {
+            "role": "Assassin", 
+            "id": "007"
+        },
+        {
+            "role": "British Agent", 
+            "id": "MI6"
+        }
+    ],
+    "birthdate": [
+        {
+            "month": "11",
+            "day": "11",
+            "year": "1920"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "James Suzuki",
+            "relationship": "son"
+        },
+        {
+            "name": "James Bond Jr.",
+            "relationship": "son"
+        }
+    ] 
+}
