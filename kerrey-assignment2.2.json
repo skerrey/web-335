@@ -1,0 +1,50 @@
+
+{
+    "_id": "921fded9",
+    "first_name": "Will",
+    "last_name": "Smith",
+    "date_of_birth": "09/25/1968",
+    "user_name": "FreshPrince",
+    "invoice": [
+        {
+            "_id": "b9050ca7",
+            "date_created": "02/22/2022",
+            "date_shipped": "02/24/2022",
+            "subtotal": "575.00",
+            "tax": "47.15",
+            "total": "622.15",
+            "line_item": [
+                {
+                    "_id": "294a5a05",
+                    "name": "SCUBA Gear",
+                    "price": "500.00",
+                    "quantity": "1"
+                },
+                {
+                    "_id": "c663b665",
+                    "name": "SCUBA Mask",
+                    "price": "75.00",
+                    "quantity": "1"
+                }
+            ]
+        },
+        {
+            "_id": "5eba34d5",
+            "date_created": "03/22/2022",
+            "date_shipped": "03/24/2022",
+            "subtotal": "12,000.00",
+            "tax": "984.00",
+            "total": "12,984.",
+            "line_item": [
+                {
+                    "_id": "8c1c675f",
+                    "name": "SCUBA Expedition",
+                    "price": "12,000.00",
+                    "quantity": "1"
+                }
+            ]
+        }
+    ]
+}
+
+
