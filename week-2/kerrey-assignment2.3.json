@@ -1,0 +1,32 @@
+
+
+{
+    "_id": "b63ece68",
+    "first_name": "John",
+    "last_name": "Johnson",
+    "mi": "J",
+    "enroll": [
+        {
+            "_id": "f37c0532",
+            "date_created": "01/01/2022",
+            "grade": "95",
+            "class": [
+                {
+                    "_id": "WEB100",
+                    "name": "Intro to Web Development"
+                }
+            ]
+        },
+        {
+            "_id": "ebe246b0",
+            "date_created": "01/01/2022",
+            "grade": "95",
+            "class": [
+                {
+                    "_id": "ENG100",
+                    "name": "Intro to English"
+                }
+            ]
+        }
+    ]
+} 
