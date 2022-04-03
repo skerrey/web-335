@@ -1,0 +1,51 @@
+
+
+{
+    "user": {
+        "_id": "4532",
+        "first_name": "Tom",
+        "last_name": "Jones",
+        "link_user_role": [
+            {
+                "link_user_role_id": "2342",
+                "role": {
+                    "role_id": "front-end developer",
+                    "link_role_permission": [
+                        {
+                            "link_role_permission_id": "9378",
+                            "permission": {
+                                "access": "access to server-side"
+                            }
+                        },
+                        {
+                            "link_role_permission_id": "3654",
+                            "permission": {
+                                "access": "access to client-side"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "link_user_role_id": "8643",
+                "role": {
+                    "role_id": "back-end developer",
+                    "link_role_permission": [
+                        {
+                            "link_role_permission_id": "4853",
+                            "permission": {
+                                "access": "access to client-side"
+                            }
+                        },
+                        {
+                            "link_role_permission_id": "0934",
+                            "permission": {
+                                "access": "access to server-side"
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
