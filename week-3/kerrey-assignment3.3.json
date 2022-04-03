@@ -1,0 +1,28 @@
+
+
+{
+    "book": {
+        "book_isbn": "0-8259-3097-9",
+        "book_name": "Intro to Web Dev",
+        "book_price": "499.00",
+        "publisher": {
+            "publisher_name": "Penguin Publishing",
+            "publisher_code": "5321",
+            "publisher_address": "123 Penguin Cir"
+        },
+        "author": [
+            {
+                "author_first_name": "Harold",
+                "author_last_name": "Stein",
+                "author_phone": "402-204-4200",
+                "author_email": "hstein@mail.com"
+            },
+            {
+                "author_first_name": "Shell",
+                "author_last_name": "Stein",
+                "author_phone": "402-302-3040",
+                "author_email": "sstein@mail.com"
+            }
+        ]
+    }
+}
